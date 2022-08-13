@@ -1,0 +1,35 @@
+.fondoItem{
+  background-color: #FF111328;
+  height: 130px;
+  border-radius:20px ;
+  color: white;
+}
+.sexo{
+  font-size: 40px;
+}
+.estiloNumero{
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: -30px;
+}
+.estiloAltura span{
+  font-size: 16px;
+  font-weight: 400;
+}
+.form-range{
+  padding:0px 20px;
+  width: 90%;
+}
+input[type=range]::-webkit-slider-thumb{
+  background: #FF3366;
+}
+.sumaResta{
+  cursor: pointer;
+  background-color: #FF4C4F5E;
+  padding:7px;
+  border-radius: 15px;
+  margin-left: 3px;
+}
+.sexoDesactivo{
+  background-color: #7D2F2F33;
+}
